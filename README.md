@@ -1,2 +1,2 @@
 # granizoneves
-Just a psycho IST student
+Student at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/)
